@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.781" height="56.942" viewBox="0 0 43.781 56.942">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcf6e7;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #290000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="File_icon" data-name="File icon" transform="translate(-151.411 -521.171)">
+    <path id="Path_7" data-name="Path 7" class="cls-1" d="M103.411,560.113h39.781V507.171H117.377l-13.966,12.376Z" transform="translate(50 16)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-2" d="M41.825,520.244H55.312V508.134Z" transform="translate(111.966 15.922)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.244" height="94.823" viewBox="0 0 72.244 94.823">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #290000;
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Upload_icon" data-name="Upload icon" transform="translate(-151.411 -521.171)">
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M41.825,528.91H64.962V508.134Z" transform="translate(112.239 16.555)"/>
+    <path id="Path_7" data-name="Path 7" class="cls-1" d="M103.411,597.994h68.244V507.171H127.369L103.411,528.4Z" transform="translate(50 16)"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(55.911 -34.329)">
+      <path id="Path_3" data-name="Path 3" class="cls-1" d="M-129.142,529.737l14.686-14.686,14.686,14.686" transform="translate(245.642 79.449)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-2" y2="30" transform="translate(131.5 598.5)"/>
+    </g>
+  </g>
+</svg>
